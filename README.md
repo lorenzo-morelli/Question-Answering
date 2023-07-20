@@ -1,4 +1,4 @@
-# Question Answering System based on the Stanford QUestion-Answering Dataset
+# Question Answering System
 
 In this Python Jupyter Notebook project, we explored the fascinating world of Question Answering in Natural Language Processing. Using the [Stanford SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) dataset, specially designed for this task, we trained three powerful Transformer-based models: Google's [BERT](https://huggingface.co/bert-base-uncased), Facebook AI's [RoBERTa](https://huggingface.co/roberta-base), and Hugging Face's (DistilBERT[https://huggingface.co/distilbert-base-uncased]). The dataset contains around 150,000 questions collected from Wikipedia articles, with answers provided either as text spans or marked as unanswerable. Our goal was to build models that not only accurately answer questions when possible but also abstain from answering when a question is unanswerable.
 
